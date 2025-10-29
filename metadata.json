@@ -1,0 +1,5 @@
+{
+  "name": "IntelliConvert",
+  "description": "A smart file converter that suggests output formats based on your uploaded file type using the Gemini API. Upload a file, select a suggested format, and simulate the conversion process.",
+  "requestFramePermissions": []
+}
