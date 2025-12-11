@@ -7,7 +7,7 @@
 
 **The Ultimate Free Online File Converter.**
 
-🚀 **LIVE DEMO:** [doodax.com](https://doodax.com)
+🚀 **LIVE DEMO:** [doodax.com](https://doodax.com/tools/intelliconvert/index.html)
 
 IntelliConvert is a high-performance, secure, and user-friendly web application designed to handle file conversions across over 388 format pairs. Built with a modern React frontend and a robust PHP backend, it features intelligent format suggestions, strict privacy controls, and a beautiful cosmic UI.
 
