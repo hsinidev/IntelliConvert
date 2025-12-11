@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api.php
+Disallow: /download.php
+Disallow: /uploads/
+Disallow: /converted/
+
+Sitemap: https://doodax.com/sitemap.xml
