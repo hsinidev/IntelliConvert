@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Intelliconvert
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Intelliconvert&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Intelliconvert Header Banner" />
+
+  <h1>🚀 Intelliconvert</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/IntelliConvert"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Intelliconvert** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,90 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# IntelliConvert (Doodax)
-
-
-**The Ultimate Free Online File Converter.**
-
-🚀 **LIVE DEMO:** [doodax.com](https://doodax.com/tools/intelliconvert/index.html)
-
-IntelliConvert is a high-performance, secure, and user-friendly web application designed to handle file conversions across over 388 format pairs. Built with a modern React frontend and a robust PHP backend, it features intelligent format suggestions, strict privacy controls, and a beautiful cosmic UI.
-
-## ✨ Key Features
-
-*   **Massive Format Support:** Convert between Documents (PDF, DOCX), Images (JPG, PNG, HEIC), Spreadsheets (XLSX, CSV), and more.
-*   **Privacy First:** Automatic file deletion after 1 hour. No user tracking.
-*   **AI-Powered:** Uses Google Gemini API (optional) to suggest the best output formats based on input MIME types.
-*   **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop with a Progressive Web App (PWA) feel.
-*   **Immersive UX:** Animated Galaxy background and smooth modal interactions.
-*   **SEO Optimized:** Full JSON-LD Schema, Open Graph tags, and semantic HTML structure.
-
-## 📂 Project Structure
-
-```
-intelliconvert/
-├── public/                 # Static assets
-│   ├── favicon.svg         # Site Icon
-│   ├── robots.txt          # Crawler directives
-│   └── sitemap.xml         # SEO Sitemap
-├── components/             # React Components
-│   ├── ConvertButton.tsx   # Action button
-│   ├── FileUploader.tsx    # Drag & Drop area
-│   ├── FormatSelector.tsx  # Dropdown logic
-│   ├── Modal.tsx           # Reusable popup (About, Privacy, etc.)
-│   ├── SeoContent.tsx      # Huge SEO Article with Expand logic
-│   └── StatusDisplay.tsx   # Progress & Error handling
-├── services/               # Logic Layer
-│   ├── conversionService.ts # API communication
-│   └── geminiService.ts    # AI suggestions
-├── App.tsx                 # Main layout and Router logic
-├── index.html              # Entry point & Global Styles
-├── types.ts                # TypeScript definitions
-└── constants.ts            # Conversion maps
-```
-
-## 🛠️ Tech Stack
-
-**Frontend:**
-*   React 19
-*   TypeScript
-*   Tailwind CSS (via CDN)
-*   Google GenAI SDK
-
-**Backend (Required):**
-*   PHP 7.4+
-*   LibreOffice (Headless)
-*   ImageMagick
-*   Tesseract OCR
-*   Apache/Nginx
-
-## 🚀 Installation & Setup
-
-1.  **Clone the repo:**
-    ```bash
-    git clone https://github.com/hsinidev/intelliconvert.git
-    ```
-
-2.  **Server Prerequisites (Ubuntu/Debian):**
-    ```bash
-    sudo apt update
-    sudo apt install php php-mbstring libreoffice imagemagick tesseract-ocr
-    ```
-
-3.  **Environment Variables:**
-    Set your Google Gemini API key in your environment or hosting provider as `API_KEY` to enable AI suggestions.
-
-4.  **Deploy:**
-    Place the files in your web root. Ensure `index.html` serves as the entry point.
-
-## 🤝 Contributing
-
-Developed by **Hsini Mohamed**.
-Check out my GitHub: [github.com/hsinidev](https://github.com/hsinidev)
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
